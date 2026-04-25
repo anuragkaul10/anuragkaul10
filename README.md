@@ -4,8 +4,6 @@
 
 I'm a passionate developer specializing in building scalable web applications. I focus on creating efficient, maintainable code and delivering robust solutions that solve real-world problems.
 
----
-
 ## 🚀 About Me
 
 - 🔭 Currently working with modern web technologies and cloud infrastructure
@@ -14,8 +12,6 @@ I'm a passionate developer specializing in building scalable web applications. I
 - 💬 Ask me about **Development, Solutions Architecture, Cloud Deployment, and Web3**
 - 📫 Reach me at **anuragkaul2810@gmail.com**
 - ⚡ Fun fact: I love turning complex problems into elegant solutions
-
----
 
 ## 🛠️ Tech Stack
 
@@ -47,13 +43,9 @@ I'm a passionate developer specializing in building scalable web applications. I
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
----
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-kaul-219406224)
-
----
 
 ## 💼 What I Do
 
@@ -75,8 +67,6 @@ const anurag = {
 };
 ```
 
----
-
 ## 🎯 Current Focus
 
 - 🔨 Building production-ready applications with **Next.js** and **NestJS**
@@ -87,8 +77,6 @@ const anurag = {
 - 🔐 Implementing secure authentication with **Auth0**
 - ⛓️ Developing decentralized applications with **Web3** and blockchain technology
 - ⛓️ Developing SAP applications with **CAPM**
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
