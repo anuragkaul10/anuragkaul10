@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anurag Kaul</h1>
-<h3 align="center">Full Stack Developer</h3>
+# Hi 👋, I'm Anurag Kaul
 
-<p align="center">
-I'm a passionate developer specializing in building scalable web applications.<br/>
-I focus on creating efficient, maintainable code and delivering robust solutions that solve real-world problems.
-</p>
+## Full Stack Developer
+
+I'm a passionate developer specializing in building scalable web applications. I focus on creating efficient, maintainable code and delivering robust solutions that solve real-world problems.
 
 ---
 
