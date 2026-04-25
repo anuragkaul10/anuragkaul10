@@ -64,13 +64,13 @@ const anurag = {
   code: ['TypeScript', 'JavaScript', 'Solidity', 'HTML', 'CSS'],
   technologies: {
     frontend: ['React', 'Next.js', 'Redux'],
-    backend: ['Node.js', 'NestJS', 'Express'],
+    backend: ['Node.js', 'NestJS', 'Express', 'CAPM'],
     databases: ['PostgreSQL', 'MongoDB', 'Redis', 'MySQL'],
-    devOps: ['Docker', 'AWS', 'Nginx', 'Linux'],
-    blockchain: ['Web3.js', 'Ethereum', 'Smart Contracts'],
-    auth: ['Auth0', 'JWT', 'OAuth'],
+    devOps: ['Docker', 'AWS', 'Nginx', 'Linux', 'SAP BTP'],
+    blockchain: ['Web3.js', 'Ethereum', 'Smart Contracts', 'Hedera Hashgraph', 'Solana'],
+    auth: ['Auth0', 'JWT', 'OAuth', 'Keycloak'],
     ai: ['LangChain'],
-    apis: ['REST', 'GraphQL']
+    apis: ['REST', 'GraphQL', 'ODATA V2/V4']
   },
   architecture: ['Microservices', 'Event-Driven', 'Serverless', 'DApps'],
   currentFocus: 'Building scalable cloud-native and blockchain applications'
@@ -88,6 +88,7 @@ const anurag = {
 - 🚀 Optimizing performance with **Redis** caching
 - 🔐 Implementing secure authentication with **Auth0**
 - ⛓️ Developing decentralized applications with **Web3** and blockchain technology
+- ⛓️ Developing SAP applications with **CAPM**
 
 ---
 
